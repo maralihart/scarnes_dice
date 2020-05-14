@@ -1,0 +1,2 @@
+rootProject.name='scarnes_dice'
+include ':app'
